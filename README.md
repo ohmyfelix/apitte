@@ -18,6 +18,15 @@
 Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
 </p>
 
+An opinionated and enjoyable API framework based on Nette Framework. Supporting content negotiation, debugging, middlewares, attributes and loving openapi/swagger.
+
+## Version
+
+| State       | Version | Branch   | Nette | PHP     |
+|-------------|---------|----------|------|---------|
+| dev         | `^0.15` | `master` | 4.0+ | `>=8.2` |
+| stable      | `^0.14` | `master` | 4.0+ | `>=8.2` |
+
 ## Usage
 
 To install the latest version of `contributte/apitte` use [Composer](https://getcomposer.org).
@@ -25,10 +34,6 @@ To install the latest version of `contributte/apitte` use [Composer](https://get
 ```
 composer require contributte/apitte
 ```
-
-## Documentation
-
-An opinionated and enjoyable API framework based on Nette Framework. Supporting content negotiation, debugging, middlewares, attributes and loving openapi/swagger.
 
 Need to start with Apitte
 - [Setup](.docs/index.md)
@@ -55,13 +60,6 @@ This knowledge could make your life easier
 Examples
 - https://github.com/contributte/apitte-skeleton (skeleton project)
 - https://contributte.org/examples.html (more examples)
-
-## Version
-
-| State       | Version | Branch   | Nette | PHP     |
-|-------------|---------|----------|------|---------|
-| dev         | `^0.15` | `master` | 4.0+ | `>=8.2` |
-| stable      | `^0.14` | `master` | 4.0+ | `>=8.2` |
 
 ## Development
 
