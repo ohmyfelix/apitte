@@ -28,7 +28,33 @@ composer require contributte/apitte
 
 ## Documentation
 
-For details on how to use this package, check out our [documentation](.docs).
+An opinionated and enjoyable API framework based on Nette Framework. Supporting content negotiation, debugging, middlewares, attributes and loving openapi/swagger.
+
+Need to start with Apitte
+- [Setup](.docs/index.md)
+- [Endpoints](.docs/endpoints.md)
+- [Mapping](.docs/mapping.md)
+
+Plugins
+- [Console](.docs/console.md)
+- [Debug](.docs/debug.md)
+- [Middlewares](.docs/middlewares.md)
+- [Negotiation](.docs/negotiation.md)
+- [OpenApi](.docs/openapi.md)
+- [Presenter](.docs/presenter.md)
+
+This knowledge could make your life easier
+- [Architecture](.docs/architecture.md)
+- [Decorators](.docs/decorators.md)
+- [Dispatcher](.docs/dispatcher.md)
+- [Errors](.docs/errors.md)
+- [Request and response](.docs/request-and-response.md)
+- [Router](.docs/router.md)
+- [Schema](.docs/schema.md)
+
+Examples
+- https://github.com/contributte/apitte-skeleton (skeleton project)
+- https://contributte.org/examples.html (more examples)
 
 ## Version
 
