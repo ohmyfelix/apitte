@@ -12,7 +12,7 @@
   <a href="https://bit.ly/ctteg"><img src="https://badgen.net/badge/support/gitter/cyan"></a>
   <a href="https://bit.ly/cttfo"><img src="https://badgen.net/badge/support/forum/yellow"></a>
   <a href="https://contributte.org/partners.html"><img src="https://badgen.net/badge/become/a%20patron/F96854"></a>
-<p>
+</p>
 
 <p align=center>
 Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
@@ -20,7 +20,7 @@ Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact �
 
 An opinionated and enjoyable API framework based on Nette Framework. Supporting content negotiation, debugging, middlewares, attributes and loving openapi/swagger.
 
-## Version
+## Versions
 
 | State       | Version | Branch   | Nette | PHP     |
 |-------------|---------|----------|------|---------|
@@ -35,12 +35,12 @@ To install the latest version of `contributte/apitte` use [Composer](https://get
 composer require contributte/apitte
 ```
 
-Need to start with Apitte
+**Getting started:**
 - [Setup](.docs/index.md)
 - [Endpoints](.docs/endpoints.md)
 - [Mapping](.docs/mapping.md)
 
-Plugins
+**Plugins:**
 - [Console](.docs/console.md)
 - [Debug](.docs/debug.md)
 - [Middlewares](.docs/middlewares.md)
@@ -48,7 +48,7 @@ Plugins
 - [OpenApi](.docs/openapi.md)
 - [Presenter](.docs/presenter.md)
 
-This knowledge could make your life easier
+**Guides:**
 - [Architecture](.docs/architecture.md)
 - [Decorators](.docs/decorators.md)
 - [Dispatcher](.docs/dispatcher.md)
@@ -57,7 +57,7 @@ This knowledge could make your life easier
 - [Router](.docs/router.md)
 - [Schema](.docs/schema.md)
 
-Examples
+**Examples:**
 - https://github.com/contributte/apitte-skeleton (skeleton project)
 - https://contributte.org/examples.html (more examples)
 
@@ -65,7 +65,7 @@ Examples
 
 See [how to contribute](https://contributte.org/contributing.html) to this package.
 
-This package is currently maintaining by these authors.
+This package is currently maintained by these authors.
 
 <a href="https://github.com/f3l1x">
   <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
