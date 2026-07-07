@@ -18,7 +18,7 @@
 Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
 </p>
 
-An opinionated and enjoyable API framework based on Nette Framework. Supporting content negotiation, debugging, middlewares, attributes and loving openapi/swagger.
+An opinionated and enjoyable API framework based on Nette Framework. Supporting content negotiation, debugging, middlewares, attributes and OpenAPI/Swagger.
 
 ## Versions
 
@@ -27,13 +27,15 @@ An opinionated and enjoyable API framework based on Nette Framework. Supporting 
 | dev         | `^0.15` | `master` | 4.0+ | `>=8.2` |
 | stable      | `^0.14` | `master` | 4.0+ | `>=8.2` |
 
-## Usage
+## Installation
 
 To install the latest version of `contributte/apitte` use [Composer](https://getcomposer.org).
 
-```
+```bash
 composer require contributte/apitte
 ```
+
+## Usage
 
 **Getting started:**
 - [Setup](.docs/index.md)
@@ -45,7 +47,7 @@ composer require contributte/apitte
 - [Debug](.docs/debug.md)
 - [Middlewares](.docs/middlewares.md)
 - [Negotiation](.docs/negotiation.md)
-- [OpenApi](.docs/openapi.md)
+- [OpenAPI](.docs/openapi.md)
 - [Presenter](.docs/presenter.md)
 
 **Guides:**
